@@ -1,4 +1,4 @@
-# Literary Authors
+# Fiction Authors
 
 [Back to Books I Have Read and Enjoyed](./README.md)
 
@@ -12,9 +12,7 @@
 * [Maugham, W. Somerset](#w-somerset-maugham)
 * [Shakespeare, William](#william-shakespeare)
 * [Norway, Nevil Shute](#nevil-shute-norway)
-* [Plutarch](#plutarch)
 * [Solzhenitsyn, Aleksandr](#aleksandr-solzhenitsyn)
-* [Tranquillus, Gaius Suetonius](#gaius-suetonius-tranquillus)
 
 
 ## Karen Blixen
@@ -62,15 +60,9 @@
 * Ordeal
     * not my favorite but a remarkable story written just before WW2
 
-## Plutarch
-* Plutarch's Lives
-
 ## Aleksandr Solzhenitsyn
 * The First Circle
 * One Day in the Life of Ivan Denisovich
-
-## Gaius Suetonius Tranquillus
-* The Lives of the Twelve Caesars
 
 [Back to Books I Have Read and Enjoyed](./README.md)
 
