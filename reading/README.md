@@ -1,4 +1,4 @@
-# Books I Have Read and Enjoyed
+# Literature I Have Read and Enjoyed
 
 > A request by my son.
 

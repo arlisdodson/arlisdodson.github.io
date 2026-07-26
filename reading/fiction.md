@@ -1,6 +1,6 @@
 # Fiction Authors
 
-[Back to Books I Have Read and Enjoyed](./README.md)
+[Back to Literature I Have Read and Enjoyed](./README.md)
 
 * [Blixen, Karen](#karen-blixen)
 * [Chesterton, G. K.](#g-k-chesterton)
@@ -64,6 +64,6 @@
 * The First Circle
 * One Day in the Life of Ivan Denisovich
 
-[Back to Books I Have Read and Enjoyed](./README.md)
+[Back to Literature I Have Read and Enjoyed](./README.md)
 
 

@@ -1,6 +1,6 @@
 # Nonfiction Authors
 
-[Back to Books I Have Read and Enjoyed](./README.md)
+[Back to Literature I Have Read and Enjoyed](./README.md)
 
 * [Plutarch](#plutarch)
 * [Tranquillus, Gaius Suetonius](#gaius-suetonius-tranquillus)
@@ -12,6 +12,6 @@
 ## Gaius Suetonius Tranquillus
 * The Lives of the Twelve Caesars
 
-[Back to Books I Have Read and Enjoyed](./README.md)
+[Back to Literature I Have Read and Enjoyed](./README.md)
 
 

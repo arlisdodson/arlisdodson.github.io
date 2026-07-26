@@ -1,6 +1,6 @@
 # Science Fiction Authors
 
-[Back to Books I Have Read and Enjoyed](./README.md)
+[Back to Literature I Have Read and Enjoyed](./README.md)
 
 * [Anderson, Poul](#poul-anderson)
 * [Azimov, Isaac](#isaac-azimov)
@@ -39,5 +39,5 @@
 * many interesting short stories
 * I was saddened to learn that H.G. Wells dismissed reports of the 1932-1933 man-made famine in Ukraine as anti-Soviet propaganda.
 
-[Back to Books I Have Read and Enjoyed](./README.md)
+[Back to Literature I Have Read and Enjoyed](./README.md)
 
