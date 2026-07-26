@@ -37,7 +37,7 @@
 ## H. G. Wells
 * The Time Machine
 * many interesting short stories
-* I was sad to learn that H.G. Wells dismissed reports of the 1932-1933 man-made famine in Ukraine as anti-Soviet propaganda.
+* I was saddened to learn that H.G. Wells dismissed reports of the 1932-1933 man-made famine in Ukraine as anti-Soviet propaganda.
 
 [Back to Books I Have Read and Enjoyed](./README.md)
 
