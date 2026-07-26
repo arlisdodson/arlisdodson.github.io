@@ -4,4 +4,5 @@
 
 | Person of Interest                 | Additional Links                                              | Notes |
 | ---------------------------------- | ------------------------------------------------------------- | ----- |
-| [David Perell](https://perell.com) | [YouTube Channel](https://www.youtube.com/@DavidPerellChannel) | See his "How I write" interviews. |
+| [David Perell](https://perell.com/) | [YouTube Channel](https://www.youtube.com/@DavidPerellChannel) | See his "How I Write" interviews. |
+| [Mark Forsyth](https://blog.inkyfool.com/) | [Writing Formulas Everybody Should Know](https://www.youtube.com/watch?v=ulhrXgpjveA) | I find reading his books as entertaining as watching his interview with David Perell. |

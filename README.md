@@ -1,5 +1,3 @@
-# Arlis Dodson Public GitHub Page
-
-> A work in progress
+> July 26, 2026 - A work in progress
 
 # [Writing](writing/README.md)
