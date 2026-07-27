@@ -10,8 +10,9 @@
 * [Lewis, Sinclair](#lewis-sinclair)
 * [Mortimer, John](#john-mortimer)
 * [Maugham, W. Somerset](#w-somerset-maugham)
-* [Shakespeare, William](#william-shakespeare)
 * [Norway, Nevil Shute](#nevil-shute-norway)
+* [Shakespeare, William](#william-shakespeare)
+* [Traven, B](#b-traven)
 * [Solzhenitsyn, Aleksandr](#aleksandr-solzhenitsyn)
 
 
@@ -44,6 +45,12 @@
 ## John Mortimer
 * Rumpole of the Bailey (book series)
 
+## Nevil Shute Norway
+* A Town Like Alice
+* In the Wet
+* Ordeal
+    * not my favorite but a remarkable story written just before WW2
+
 ## W Somerset Maugham
 * Of Human Bondage
 * The Moon and Sixpenth
@@ -54,15 +61,12 @@
 * Julius Caesar
 * poems
 
-## Nevil Shute Norway
-* A Town Like Alice
-* In the Wet
-* Ordeal
-    * not my favorite but a remarkable story written just before WW2
-
 ## Aleksandr Solzhenitsyn
 * The First Circle
 * One Day in the Life of Ivan Denisovich
+
+## B Traven
+* The Treasure of the Sierra Modre
 
 [Back to Literature I Have Read and Enjoyed](./README.md)
 
