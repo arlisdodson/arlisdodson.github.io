@@ -8,6 +8,7 @@
 * [Darwin, Charles](#charles-darwin)
 * [Drucker, Peter F](#peter-f-drucker)
 * [Forsyth, Mark](#mark-forsyth)
+* [Highet, Gilbert](#gilbert-highet)
 * [Jones, Gareth Richard Vaughan](#gareth-richard-vaughan-jones)
 * [Livy, Titus](#titus-livy)
 * [Maclean, Norman](#norman-maclean)
@@ -39,6 +40,9 @@
 * The Elements of Eloquence
 * Horologicon
 * Rhyme and Reason: A Short History of British Poetry
+
+## Gilbert Highet
+* The Classical Tradition: Greek and Roman Influences on Western Literature
 
 ## Gareth Richard Vaughan Jones
 * [Published Articles](https://www.garethjones.org/published_articles/published_articles.htm)
