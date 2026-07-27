@@ -41,7 +41,7 @@
 * Rhyme and Reason: A Short History of British Poetry
 
 ## Gareth Richard Vaughan Jones
-* [Published Articles](https://www.garethjones.org/published_articles.htm)
+* [Published Articles](https://www.garethjones.org/published_articles/published_articles.htm)
 
 ## Titus Livy
 * The Early History of Rome, Books I-V
