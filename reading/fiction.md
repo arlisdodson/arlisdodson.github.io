@@ -4,6 +4,7 @@
 
 * [Blixen, Karen](#karen-blixen)
 * [Chesterton, G. K.](#g-k-chesterton)
+* [Hammett, Dashiell](#dashiell-hammett)
 * [Hardy, Thomas](#thomas-hardy)
 * [Hemingway, Ernest](#ernest-heminway)
 * [Kipling, Rudyard](#rudyard-kipling) 
@@ -23,6 +24,9 @@
 * The Innocence of Father Brown
     * a favorite: "The Queer Feet"
     * a favorite: "The Honour of Israel Gow"
+
+## Dashiell Hammett
+* The Maltese Falcon
 
 ## Thomas Hardy
 * Jude the Obscure
