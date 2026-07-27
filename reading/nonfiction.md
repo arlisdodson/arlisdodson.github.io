@@ -2,6 +2,7 @@
 
 [Back to Literature I Have Read and Enjoyed](./README.md)
 
+* [Acemoglu, Daron](#daron-acemoglu-and-james-a-robinson)
 * [Appia](#appia)
 * [Bate, Jonathan](#jonathan-bate)
 * [Conquest, Robert](#robert-conquest)
@@ -16,8 +17,13 @@
 * [Pirenne, Henri](#henri-pirenne)
 * [Plutarch](#plutarch)
 * [Polybius](#polybius)
+* [Robinson, James A](#daron-acemoglu-and-james-a-robinson)
 * [Southern, R W](#r-w-southern)
 * [Tranquillus, Gaius Suetonius](#gaius-suetonius-tranquillus)
+
+## Daron Acemoglu and James A Robinson
+* Why Nations Fail
+    * The Origins of Power, Prosperity, and Poverty
 
 ## Appia
 * The Civil Wars
