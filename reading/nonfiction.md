@@ -8,7 +8,7 @@
 * [Darwin, Charles](#charles-darwin)
 * [Drucker, Peter F](#peter-f-drucker)
 * [Forsyth, Mark](#mark-forsyth)
-* [Jones, Gareth Richard Vaughan](#gareth-richard-vaughan)
+* [Jones, Gareth Richard Vaughan](#gareth-richard-vaughan-jones)
 * [Livy, Titus](#titus-livy)
 * [Maclean, Norman](#norman-maclean)
 * [Oliver, Neil](#neil-oliver)
