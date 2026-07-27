@@ -3,16 +3,21 @@
 [Back to Literature I Have Read and Enjoyed](./README.md)
 
 * [Blixen, Karen](#karen-blixen)
+* [Chekhov, Anton](#anton-chechov)
 * [Chesterton, G. K.](#g-k-chesterton)
+* [Gogol, Nikolai](#nikolai-gogol)
 * [Hammett, Dashiell](#dashiell-hammett)
 * [Hardy, Thomas](#thomas-hardy)
 * [Hemingway, Ernest](#ernest-heminway)
 * [Kipling, Rudyard](#rudyard-kipling) 
 * [Lewis, Sinclair](#lewis-sinclair)
+* [Maupassant, Guy de](#guy-de-maupassant)
 * [Mortimer, John](#john-mortimer)
 * [Maugham, W. Somerset](#w-somerset-maugham)
 * [Norway, Nevil Shute](#nevil-shute-norway)
 * [Shakespeare, William](#william-shakespeare)
+* [Steinbeck, John](#john-steinbeck)
+* [Tolstoy, Leo](#leo-tolstoy)
 * [Traven, B](#b-traven)
 * [Solzhenitsyn, Aleksandr](#aleksandr-solzhenitsyn)
 
@@ -20,10 +25,16 @@
 ## Karen Blixen
 * Babett's Feast (short story)
 
+## Anton Chekhov
+* short stories
+
 ## G K Chesterton
 * The Innocence of Father Brown
     * a favorite: "The Queer Feet"
     * a favorite: "The Honour of Israel Gow"
+
+## Nikolai Gogol
+* short stories
 
 ## Dashiell Hammett
 * The Maltese Falcon
@@ -41,10 +52,13 @@
 * The Finest Story in the World (short story)
 * The Man Who Would be King (short story)
 
-## Lewis Sinclair
+## Sinclair Lewis
 * Babbit
 * Arrowsmith
 * Dodsworth
+
+## Guy de Maupassant
+* short stories
 
 ## John Mortimer
 * Rumpole of the Bailey (book series)
@@ -68,6 +82,13 @@
 ## Aleksandr Solzhenitsyn
 * The First Circle
 * One Day in the Life of Ivan Denisovich
+
+## John Steinbeck
+* Cannery Row
+* The Grapes of Wrath
+
+## Leo Tolstoy
+* short stories
 
 ## B Traven
 * The Treasure of the Sierra Modre
