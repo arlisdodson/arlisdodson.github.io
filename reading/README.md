@@ -6,7 +6,7 @@
     * [Science Fiction](./scifi.md)
 * [Nonfiction](./nonfiction.md)
 
-# [MIT OpenCourseWare](https://oc.mit.edu/)
+# [MIT OpenCourseWare](https://ocw.mit.edu/)
 * Economics
 * History
 * Literature
