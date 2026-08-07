@@ -1,7 +1,7 @@
 # Favorites
 
 * [Software Engineering Radio](https://se-radio.net/)
-    * [Podcasts](./se-radio.md)
+    * [Favorite Podcasts](./se-radio.md)
     * YouTube
         * [Channel IEEEComputerSociety](https://youtube.com/@IEEEComputerSociety)
             * [Podcast Playlist](https://www.youtube.com/playlist?list=PLHJB2bhmgB7esz0BxMCt1jJwsoaqWtFff)
