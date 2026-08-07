@@ -5,6 +5,7 @@
 * [Blixen, Karen](#karen-blixen)
 * [Chekhov, Anton](#anton-chechov)
 * [Chesterton, G. K.](#g-k-chesterton)
+* [Fitzgeral, Robert](#robert-fitzgerald)
 * [Gogol, Nikolai](#nikolai-gogol)
 * [Hammett, Dashiell](#dashiell-hammett)
 * [Hardy, Thomas](#thomas-hardy)
@@ -32,6 +33,10 @@
 * The Innocence of Father Brown
     * a favorite: "The Queer Feet"
     * a favorite: "The Honour of Israel Gow"
+
+## Robert Fitzgeral
+* [Wikipedia - Odyssey (Robert Fitzgeral translation)](https://en.wikipedia.org/wiki/Odyssey_(Robert_Fitzgerald_translation)
+    * 1961 verse translation of Homer's Odyssey
 
 ## Nikolai Gogol
 * short stories
