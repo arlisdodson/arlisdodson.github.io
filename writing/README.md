@@ -1,6 +1,6 @@
 # Writing
 
-## Living People of Interest
+# Living People of Interest
 
 | Person of Interest                 | Additional Links                                              | Notes |
 | :--- | :--- | :--- |
@@ -8,10 +8,17 @@
 | [Forsyth, Mark](https://blog.inkyfool.com/) | [Writing Formulas Everybody Should Know](https://www.youtube.com/watch?v=ulhrXgpjveA) | I find reading his books as entertaining as watching his interview with David Perell. |
 | [Perell, David](https://perell.com/) | [YouTube Channel](https://www.youtube.com/@DavidPerellChannel) | See his "How I Write" interviews. |
 
-## Dead People of Interest
+# Dead People of Interest
 
 | Person of Interest | Additional Links | Notes |
 | :--- | :--- | :--- |
 | [Jones, Gareth Richard Vaughan](https://www.garethjones.org/) | [The National Library of Wales](https://www.library.wales/welshpoliticalarchive/gareth-vaughan-jones) | |
 | [Orwell, George](https://en.wikipedia.org/wiki/George_Orwell) | [All Art is Propaganda](https://archive.org/details/AllArtIsPropagandaCriticalEssays) | |
+
+# References
+
+* Rutgers - New Braunshwick
+    * [Rutgers Writing Center](https://writingctr.rutgers.edu/)
+        * personal writing guidance
+    * [Writing Historical Essays](https://history.rutgers.edu/academics/undergraduate/writing-historical-essays)
 
