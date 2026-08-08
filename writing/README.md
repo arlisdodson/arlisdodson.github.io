@@ -17,9 +17,15 @@
 
 # References
 
+* Internet Archive
+    * [A Short Guide to Writing About History](https://archive.org/details/shortguidetowrit00mari/mode/2up)
+    * [A Pocket Guide to Writing in History](https://archive.org/details/pocketguidetowri00mary)
 * Harvard
     * [How to Write a History Paper](https://history.fas.harvard.edu/sites/g/files/omnuum4421/files/history/files/historypdf.pdf)
         * Writing in the Disciplines
+        * See especially
+            * Familiar Arguments in Review Essays
+            * Familiar Arguments in Research Papers
 * Rutgers - New Braunshwick
     * [Rutgers Writing Center](https://writingctr.rutgers.edu/)
         * personal writing guidance
