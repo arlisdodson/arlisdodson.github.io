@@ -24,6 +24,7 @@
                 * Google Docs
     * [Writing Tips for an Economics Paper](https://www.brandeis.edu/writing-program/resources/faculty/wi-instructor-resources/econ-tips.html)
 * Harvard
+    * [Writing Economics](https://writingproject.fas.harvard.edu/sites/g/files/omnuum4531/files/hwp/files/writingec_f2014_0.pdf)
     * [How to Write a History Paper](https://history.fas.harvard.edu/sites/g/files/omnuum4421/files/history/files/historypdf.pdf)
         * Writing in the Disciplines
         * See especially
