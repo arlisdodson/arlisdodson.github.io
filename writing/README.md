@@ -17,15 +17,21 @@
 
 # References
 
-* Internet Archive
-    * [A Short Guide to Writing About History](https://archive.org/details/shortguidetowrit00mari/mode/2up)
-    * [A Pocket Guide to Writing in History](https://archive.org/details/pocketguidetowri00mary)
+* Brandeis University
+    * [Writing Resources - Writing Intenstive Instructor Resources](https://www.brandeis.edu/writing-program/resources/faculty/wi-instructor-resources/index.html)
+        * Department Writing Guides
+            * [Economics Writing Guide](https://docs.google.com/document/d/17u3A4_DSbj_gGr2ZRysErMQ8fWgcaGadPNBPUamNsxo/edit?tab=t.0)
+                * Google Docs
+    * [Writing Tips for an Economics Paper](https://www.brandeis.edu/writing-program/resources/faculty/wi-instructor-resources/econ-tips.html)
 * Harvard
     * [How to Write a History Paper](https://history.fas.harvard.edu/sites/g/files/omnuum4421/files/history/files/historypdf.pdf)
         * Writing in the Disciplines
         * See especially
             * Familiar Arguments in Review Essays
             * Familiar Arguments in Research Papers
+* Internet Archive
+    * [A Short Guide to Writing About History](https://archive.org/details/shortguidetowrit00mari/mode/2up)
+    * [A Pocket Guide to Writing in History](https://archive.org/details/pocketguidetowri00mary)
 * Rutgers - New Braunshwick
     * [Rutgers Writing Center](https://writingctr.rutgers.edu/)
         * personal writing guidance
