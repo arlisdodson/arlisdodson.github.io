@@ -38,7 +38,7 @@
         * personal writing guidance
     * [Writing Historical Essays](https://history.rutgers.edu/academics/undergraduate/writing-historical-essays)
 * University of Minnesota
-    * [Professor Emeritus Peter Carr](
+    * Professor Emeritus Peter Carr (1944-2025)
         * [YouTube - How to Write a Paper in a Weekend (First Draft)](https://www.youtube.com/watch?v=UY7sVKJPTMA)
             * Channel: Surviving and Thriving in Higher Education
 
