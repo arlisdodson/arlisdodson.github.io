@@ -17,8 +17,15 @@
 
 # References
 
+* Harvard
+    * [How to Write a History Paper](https://history.fas.harvard.edu/sites/g/files/omnuum4421/files/history/files/historypdf.pdf)
+        * Writing in the Disciplines
 * Rutgers - New Braunshwick
     * [Rutgers Writing Center](https://writingctr.rutgers.edu/)
         * personal writing guidance
     * [Writing Historical Essays](https://history.rutgers.edu/academics/undergraduate/writing-historical-essays)
+* University of Minnesota
+    * [Professor Emeritus Peter Carr](
+        * [YouTube - How to Write a Paper in a Weekend (First Draft)](https://www.youtube.com/watch?v=UY7sVKJPTMA)
+            * Channel: Surviving and Thriving in Higher Education
 
