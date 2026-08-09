@@ -2,30 +2,30 @@
 
 [Back to Literature I Have Read and Enjoyed](./README.md)
 
-* [Acemoglu, Daron](#daron-acemoglu-and-james-a-robinson)
-* [Appia](#appia)
-* [Bate, Jonathan](#jonathan-bate)
-* [Conquest, Robert](#robert-conquest)
-* [Darwin, Charles](#charles-darwin)
-* [Drucker, Peter F](#peter-f-drucker)
-* [Forsyth, Mark](#mark-forsyth)
-* [Highet, Gilbert](#gilbert-highet)
-* [Jones, Gareth Richard Vaughan](#gareth-richard-vaughan-jones)
-* [Livy, Titus](#titus-livy)
-* [Maclean, Norman](#norman-maclean)
-* [Oliver, Neil](#neil-oliver)
-* [Pirenne, Henri](#henri-pirenne)
-* [Plutarch](#plutarch)
-* [Polybius](#polybius)
-* [Robinson, James A](#daron-acemoglu-and-james-a-robinson)
-* [Southern, R W](#r-w-southern)
-* [Tranquillus, Gaius Suetonius](#gaius-suetonius-tranquillus)
+* [Acemoglu, Daron (born 1967)](#daron-acemoglu-and-james-a-robinson)
+* [Appian (95-165)](#appian)
+* [Bate, Jonathan (born 1958)](#jonathan-bate)
+* [Conquest, Robert (1917-2015)](#robert-conquest)
+* [Darwin, Charles (1809-1882)](#charles-darwin)
+* [Drucker, Peter F (1909-2005)](#peter-f-drucker)
+* [Forsyth, Mark (born 1977)](#mark-forsyth)
+* [Highet, Gilbert (1906-1978)](#gilbert-highet)
+* [Jones, Gareth Richard Vaughan (1905-1935)](#gareth-richard-vaughan-jones)
+* [Livy, Titus (59BCE-17AD)](#titus-livy)
+* [Maclean, Norman (1902-1990)](#norman-maclean)
+* [Oliver, Neil (born 1967)](#neil-oliver)
+* [Pirenne, Henri (1862-1935)](#henri-pirenne)
+* [Plutarch (46-119)](#plutarch)
+* [Polybius (200BCE-118BCE](#polybius)
+* [Robinson, James A (born 1960)](#daron-acemoglu-and-james-a-robinson)
+* [Southern, R W (1912-2001)](#r-w-southern)
+* [Tranquillus, Gaius Suetonius (69-130)](#gaius-suetonius-tranquillus)
 
 ## Daron Acemoglu and James A Robinson
 * Why Nations Fail
     * The Origins of Power, Prosperity, and Poverty
 
-## Appia
+## Appian
 * The Civil Wars
 
 ## Jonathan Bate
