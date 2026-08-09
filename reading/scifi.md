@@ -2,15 +2,15 @@
 
 [Back to Literature I Have Read and Enjoyed](./README.md)
 
-* [Anderson, Poul](#poul-anderson)
-* [Azimov, Isaac](#isaac-azimov)
-* [Bradbury, Ray](#ray-bradbury)
-* [Clarke, Arthur C](#arthur-c-clarke)
-* [Heinlein, Robert A](#robert-a-heinlein)
-* [Russell, Eric Frank](#eric-frank-russell)
-* [Simak, Clifford D](#clifford-d-simak)
-* [Verne, Jules](#jules-verne)
-* [Wells, H.G.](#h-g-wells)
+* [Anderson, Poul (1926-2001)](#poul-anderson)
+* [Azimov, Isaac (1920-1992)](#isaac-azimov)
+* [Bradbury, Ray (1920-2012)](#ray-bradbury)
+* [Clarke, Arthur C (1917-2008)](#arthur-c-clarke)
+* [Heinlein, Robert A (1907-1988)](#robert-a-heinlein)
+* [Russell, Eric Frank (1905-1978)](#eric-frank-russell)
+* [Simak, Clifford D (1904-1988)](#clifford-d-simak)
+* [Verne, Jules (1828-1905)](#jules-verne)
+* [Wells, H.G. (1866-1946)](#h-g-wells)
 
 ## Poul Anderson
 * [Call Me Joe](https://en.wikipedia.org/wiki/Call_Me_Joe) (novella)
