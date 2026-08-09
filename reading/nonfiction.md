@@ -19,7 +19,7 @@
 * [Polybius (200BCE-118BCE](#polybius)
 * [Robinson, James A (born 1960)](#daron-acemoglu-and-james-a-robinson)
 * [Southern, R W (1912-2001)](#r-w-southern)
-* [Tranquillus, Gaius Suetonius (69-130)](#gaius-suetonius-tranquillus)
+* [Tranquillus, Gaius Suetonius (69-130 approx.)](#gaius-suetonius-tranquillus)
 
 ## Daron Acemoglu and James A Robinson
 * Why Nations Fail
