@@ -11,6 +11,7 @@
 * [Hardy, Thomas (1840-1928](#thomas-hardy)
 * [Hemingway, Ernest (1899-1961](#ernest-heminway)
 * [Kipling, Rudyard (1865-1936](#rudyard-kipling) 
+* [Lelord, Francois (born 1953)](#francois-lelord)
 * [Lewis, Sinclair (1885-1951)](#lewis-sinclair)
 * [Maupassant, Guy de (1850-1893)](#guy-de-maupassant)
 * [Mortimer, John (1923-2009)](#john-mortimer)
@@ -56,6 +57,9 @@
 ## Rudyard Kipling
 * The Finest Story in the World (short story)
 * The Man Who Would be King (short story)
+
+## Francois Lelord
+* Hector and the Search for Happiness
 
 ## Sinclair Lewis
 * Babbit
