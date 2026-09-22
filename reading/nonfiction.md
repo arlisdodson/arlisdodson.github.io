@@ -11,6 +11,7 @@
 * [Forsyth, Mark (born 1977)](#mark-forsyth)
 * [Highet, Gilbert (1906-1978)](#gilbert-highet)
 * [Jones, Gareth Richard Vaughan (1905-1935)](#gareth-richard-vaughan-jones)
+* [Kierkegaard, Soren](#soren-kierkegaard)
 * [Livy, Titus (59BCE-17AD)](#titus-livy)
 * [Maclean, Norman (1902-1990)](#norman-maclean)
 * [Oliver, Neil (born 1967)](#neil-oliver)
@@ -52,6 +53,10 @@
 
 ## Gareth Richard Vaughan Jones
 * [Published Articles](https://www.garethjones.org/published_articles/published_articles.htm)
+
+## Soren Kierkegaard
+* [Fear and Trembling](https://en.wikipedia.org/wiki/Fear_and_Trembling)
+    * I appreciate his retellings of the binding of Isaac
 
 ## Titus Livy
 * The Early History of Rome, Books I-V
