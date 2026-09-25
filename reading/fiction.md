@@ -32,8 +32,10 @@
 
 ## G K Chesterton
 * The Innocence of Father Brown
-    * a favorite: "The Queer Feet"
-    * a favorite: "The Honour of Israel Gow"
+    * "The Queer Feet"
+    * "The Honour of Israel Gow"
+* The Wisdom of Father Brown
+    * "The Salad of Colonel Cray"
 
 ## Robert Fitzgeral
 * [Wikipedia - Odyssey (Robert Fitzgeral translation)](https://en.wikipedia.org/wiki/Odyssey_(Robert_Fitzgerald_translation)
