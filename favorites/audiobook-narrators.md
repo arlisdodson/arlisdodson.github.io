@@ -3,6 +3,7 @@
 [Back to Favorites](./README.md)
 
 * [Brown, Richard](#richard-brown)
+# [Curry, Tim](#tim-curry)
 * [Farden, Jerry](#jerry-farden)
 * [Free, Kevin R.](#kevin-r-free)
 * [Hardy, Robert](#robert-hardy)
@@ -13,6 +14,10 @@
 ## Richard Brown
 * Alexsandr Solzhenitsyn
     * One Day in the Life of Ivan Denisovich
+
+## Tim Curry
+# Charles Dickens
+    * A Chrismas Carol
 
 ## Jerry Farden
 * John Steinbeck
