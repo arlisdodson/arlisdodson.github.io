@@ -17,7 +17,7 @@
     * One Day in the Life of Ivan Denisovich
 
 ## Tim Curry
-# Charles Dickens
+* Charles Dickens
     * A Chrismas Carol
 
 ## Jim Dale
