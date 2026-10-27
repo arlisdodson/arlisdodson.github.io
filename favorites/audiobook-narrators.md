@@ -3,7 +3,8 @@
 [Back to Favorites](./README.md)
 
 * [Brown, Richard](#richard-brown)
-# [Curry, Tim](#tim-curry)
+* [Curry, Tim](#tim-curry)
+* [Dale, Jim](#jim-dale)
 * [Farden, Jerry](#jerry-farden)
 * [Free, Kevin R.](#kevin-r-free)
 * [Hardy, Robert](#robert-hardy)
@@ -18,6 +19,10 @@
 ## Tim Curry
 # Charles Dickens
     * A Chrismas Carol
+
+## Jim Dale
+* J.K. Rowling
+    * Harry Potter
 
 ## Jerry Farden
 * John Steinbeck
