@@ -1,6 +1,6 @@
 # Favorite Software Engineering Podcasts #
 
-In 2008, after suffering a "youn man's" stroke, I discovered [Software Engineering Radio podcast](https://se-radio.net/).
+In 2008, after suffering a "young man's" stroke, I discovered [Software Engineering Radio podcast](https://se-radio.net/).
 
 At that time, as a result of suffering significant brain damage, I found it very difficult to read technical papers and books.
 
