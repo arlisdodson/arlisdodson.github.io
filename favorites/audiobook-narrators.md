@@ -3,6 +3,7 @@
 [Back to Favorites](./README.md)
 
 * [Brown, Richard](#richard-brown)
+* [Clamp, James](#james-clamp)
 * [Curry, Tim](#tim-curry)
 * [Dale, Jim](#jim-dale)
 * [Farden, Jerry](#jerry-farden)
@@ -15,6 +16,11 @@
 ## Richard Brown
 * Alexsandr Solzhenitsyn
     * One Day in the Life of Ivan Denisovich
+
+## James Clamp
+* Francois Lelord
+    * Hector and the Search for Happiness
+        * translated by Lorenza Garcia
 
 ## Tim Curry
 * Charles Dickens
