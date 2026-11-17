@@ -2,6 +2,7 @@
 
 [Back to Favorites](./README.md)
 
+* [Brick, Scott](#scott-brick)
 * [Brown, Richard](#richard-brown)
 * [Clamp, James](#james-clamp)
 * [Curry, Tim](#tim-curry)
@@ -12,6 +13,15 @@
 * [Jarvis, Martin](#martin-jarvis)
 * [Keith, Ron](#ron-keith)
 * [Mayes, Bernard](#bernard-mayes)
+
+## Scott Brick
+* [Isaac Azimov](https://scottbrick.com/audiobook-authors/isaac-asimov)
+    * Foundation
+    * Foundation and Empire
+    * Second Foundation
+* [Ayn Rand: Atlas Shrugged](https://scottbrick.com/audiobook-authors/159006)
+    * TODO: I suspect this reading will be very entertaining :)
+        * When I was easily swayed, I read and re-read this story and her many mouthpieces
 
 ## Richard Brown
 * Alexsandr Solzhenitsyn
